@@ -1,0 +1,14 @@
+git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
+git submodule add https://github.com/Twinside/vim-cuteErrorMarker bundle/cuteerrormarker
+git submodule add https://github.com/vim-scripts/FuzzyFinder.git bundle/fuzzyfinder
+git submodule add https://github.com/scrooloose/nerdtree.git bundle/nerdtree
+git submodule add https://github.com/vim-scripts/matchit.zip.git bundle/matchit
+git submodule add https://github.com/sukima/xmledit.git bundle/xmledit
+git submodule add https://github.com/vim-scripts/VisIncr.git bundle/visincr
+git submodule add https://github.com/vim-scripts/YankRing.vim.git bundle/yankring
+git submodule add https://github.com/ervandew/supertab.git bundle/supertab
+git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/omnicppcomplete
+git submodule add https://github.com/msanders/snipmate.vim.git bundle/snipmate
+git submodule add https://github.com/scrooloose/nerdcommenter.git bundle/nerdcommenter
+git submodule add https://github.com/clones/vim-l9.git bundle/vim-l9
+git submodule add https://github.com/tpope/vim-surround.git bundle/vim-surround 
