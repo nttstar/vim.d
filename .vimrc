@@ -373,3 +373,4 @@ autocmd Filetype c setlocal sts=4 sw=4 expandtab
 autocmd Filetype cpp setlocal sts=4 sw=4 expandtab
 autocmd Filetype ruby setlocal sts=2 sw=2 expandtab
 autocmd Filetype tex setlocal sts=2 sw=2 expandtab
+autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
